@@ -1,6 +1,6 @@
 # 3D Rendering with Three.js
 
-:sparkles:
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
 
 ## Project based on:
 
